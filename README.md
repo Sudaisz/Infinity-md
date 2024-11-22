@@ -24,7 +24,7 @@ src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WO
 
 
 
-<a href='https://github.com/Sudaisz/Infinity-md.git/fork' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/FORK REPO-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://github.com/Sudaisz/Infinity-md/fork' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/FORK REPO-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
